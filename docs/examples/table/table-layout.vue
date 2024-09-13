@@ -19,7 +19,7 @@ const tableLayout = ref<TableInstance['tableLayout']>('fixed')
 const tableData = [
   {
     date: '2016-05-03',
-    name: 'Tom',
+    name: 'Tom1',
     address: 'No. 189, Grove St, Los Angeles',
   },
   {
